@@ -71,7 +71,7 @@ nav button{
 }
 .header-content h1{
     line-height: 70px;
-    max-width: 650px;
+    max-width: 680px;
     font-size: 60px;
     font-weight: 600;
 }
@@ -284,14 +284,8 @@ label::after{
  }
  .header-content h1{
     font-size:30px;
+     max-width: 480px;
     line-height: 100%;
- }
- .email-signup button{
-    font-size: 10px;
-    padding: 10px 15px;
-}
- .email-signup input{
-    padding: 12px 15px;
  }
  .faq h2{
     font-size: 20px;
@@ -308,17 +302,17 @@ label::after{
  }
 .email-signup input{
     padding: 12px 10px;
-    max-width:600px;
+    max-width:520px;
     color:#fff;
     align-items: flex-end;
-    margin: 0px 5px;
+    margin: 0px 2px;
 }
 .email-signup button{
     font-size: 14px;
     font-weight: 400;
     border-radius: 5px;
     cursor: pointer;
-    margin: 0px 5px;
+    margin: 0px 2px;
     padding: 12px 10px;
     min-width: 120px;
 }
